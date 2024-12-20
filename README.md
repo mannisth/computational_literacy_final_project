@@ -7,3 +7,4 @@ This project includes:
 - PDF-file describing the project and the workflow as well as the analysis of data
 - An Excel sheet listing the most commonly used words of each program and their counts
 - An excel sheet listing the counts of subordinate conjunctions and relative pronouns used in the programs, and the calculations related to them
+- A folder including the programs in their original PDF format
